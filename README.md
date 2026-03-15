@@ -34,14 +34,6 @@ Dataset exportado diretamente do TabNet com as seguintes características:
 
 ---
 
-## Preview
-
-Adicione aqui um screenshot do dashboard depois de publicar.
-
-![Dashboard Preview](docs/dashboard.png)
-
----
-
 ## Como Rodar
 
 ```bash
