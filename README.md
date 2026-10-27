@@ -38,7 +38,7 @@ Dataset exportado diretamente do TabNet com as seguintes características:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/sus-hospital-analytics-sc.git
+git clone https://github.com/AdryanSilva1/sus-hospital-analytics-sc.git
 
 # 2. Entre no diretório
 cd sus-hospital-analytics-sc
@@ -134,7 +134,7 @@ corresponder exatamente a um semestre calendário.
 Analista de Dados · Automação · Dashboards · Saúde
 
 🔗 [LinkedIn](https://www.linkedin.com/in/adryan-silva-santos)
-🔗 [GitHub](https://github.com/seu-usuario)
+🔗 [GitHub](https://github.com/AdryanSilva1)
 
 ---
 
